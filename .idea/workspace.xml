@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c007938d-27f1-4879-90cc-26450ad963d2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Pruebas/Calculadora.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Pruebas/Calculadora.py" afterDir="false" />
+    <list default="true" id="c007938d-27f1-4879-90cc-26450ad963d2" name="Changes" comment="Actualizacion">
+      <change afterPath="$PROJECT_DIR$/MineSweeper/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MineSweeper/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MineSweeper/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/POOI/Item.py" beforeDir="false" afterPath="$PROJECT_DIR$/POOI/Item.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pruebas/Calculadora.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Calculadora.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pruebas/p.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pruebas/rpnCalculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POOI/item.csv" beforeDir="false" afterPath="$PROJECT_DIR$/POOI/item.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,16 +37,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Calculadora.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Item.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Calculadora.executor": "Run",
+    "Python.Item.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.utils.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\artur\OneDrive\Estudios\Estudio Personal\Cosas\Python\pythonProject" />
@@ -68,6 +70,19 @@
       <option name="presentableId" value="Default" />
       <updated>1706356042039</updated>
     </task>
+    <task id="LOCAL-00001" summary="Actualizacion">
+      <option name="closed" value="true" />
+      <created>1706390999091</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706390999091</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Actualizacion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualizacion" />
   </component>
 </project>
